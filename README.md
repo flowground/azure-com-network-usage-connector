@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the NetworkManagementClient API (version 2017-10-01).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/network-usage/2017-10-01/swagger.json<br/>
-Generated at: 2019-05-07T17:38:33+03:00
+Generated at: 2019-06-11T18:14:08+03:00
 
 ## API Description
 
